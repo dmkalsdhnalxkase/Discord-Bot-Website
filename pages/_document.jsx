@@ -28,7 +28,7 @@ class MyDocument extends Document {
             property="og:description"
             content="Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+         
           <meta property="og:image:alt" content="Trefax Bot" />
           <meta property="og:locale" content="en_GB" />
           <meta
