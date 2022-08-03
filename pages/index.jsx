@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Astra Bot
+          Trefax Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Kendi sunucunuza gelişmiş bir özel oda sistemi kurmaya ne dersiniz? Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu,
@@ -25,7 +25,7 @@ export default function Index() {
               >
           Invite Astra
               </a>
-            </Link>
+            </https://discord.com/api/oauth2/authorize?client_id=993587710356893816&permissions=8&scope=applications.commands%20bot>
   <div className="py-10"></div>
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
