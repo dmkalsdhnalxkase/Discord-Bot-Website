@@ -25,7 +25,7 @@ export default function Index() {
               >
           Invite Astra
               </a>
-            </https://discord.com/api/oauth2/authorize?client_id=993587710356893816&permissions=8&scope=applications.commands%20bot>
+            </Link>
   <div className="py-10"></div>
   <Link href={"https://bit.ly/3LYzaDe"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
