@@ -11,7 +11,7 @@ export default function Footer() {
                     <div className="lg:grid lg:grid-cols-6 gap-20">
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
-                               <meta property="og:image" content="" />
+                               <meta property="og:image" content="/img/logo.jpg" />
                                 <p className="font-semibold text-xl text-white">Trefax Bot</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
