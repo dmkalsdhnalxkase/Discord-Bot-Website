@@ -81,14 +81,14 @@ export default function Footer() {
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        Geliştirici: Uğur#0007
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                        Son Güncelleme: 3.08.2022
                                     </a>
                                 </Link>
                             </div>
