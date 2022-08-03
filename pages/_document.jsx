@@ -21,7 +21,7 @@ class MyDocument extends Document {
           <meta property="og:title" content="Trefax Bot" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://images-ext-2.discordapp.net/external/Vw5oASgohJBUOihvw1GVfvXaA0fnDVPqfEyAcqeNW3s/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/993587710356893816/e5a3760d2944097859d2adaf8922289b.webp?width=625&height=625"
             type="image/x-icon"
           />
           <meta
