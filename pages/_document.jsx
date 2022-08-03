@@ -25,6 +25,7 @@ class MyDocument extends Document {
             type="image/x-icon"
           />
           <meta
+            <meta property="og:image" content="/img/logo.jpg" />
             property="og:description"
             content="Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu."
           />
