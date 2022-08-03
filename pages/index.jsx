@@ -13,7 +13,7 @@ export default function Index() {
           Astra Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Kendi sunucunuza gelişmiş bir özel oda sistemi kurmaya ne dersiniz? with Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu, this  with 
+       Kendi sunucunuza gelişmiş bir özel oda sistemi kurmaya ne dersiniz? Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu,
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -87,10 +87,10 @@ Vote Astra</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">Botumuz en iyisi</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Trefax ile en iyi partileri vermeye hazır mısınız??</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://media.discordapp.net/attachments/975316534870278204/1004418569234292917/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
