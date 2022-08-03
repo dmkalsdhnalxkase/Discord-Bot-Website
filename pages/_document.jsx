@@ -25,7 +25,7 @@ class MyDocument extends Document {
             type="image/x-icon"
           />
           <meta
-            <meta property="og:image" content="/img/logo.jpg" />
+            <meta property="og:image" content="/img/resim_2022-08-03_212655016.jpg" />
             property="og:description"
             content="Ön ayarlı kanala katılarak siz ve arkadaşlarınız için geçici bir ses kanalı oluşturan ve kanalda kimse kalmadığında silen Discord botu."
           />
@@ -37,7 +37,7 @@ class MyDocument extends Document {
             content="Trefax Bot"
           />
           <meta name="theme-color" content="#6108dd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/resim_2022-08-03_212655016.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
