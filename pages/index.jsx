@@ -61,25 +61,7 @@ Vote Astra</a>
                 </div>
               </div>
               <div>
-                <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> </p>
-                  <p className="text-gray-500 line-clamp-4">)</p>
-                </div>
-              </div>
-              <div>
-                <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> </p>
-                  <p className="text-gray-500 line-clamp-4">.</p>
-                </div>
-              </div>
-              <div>
-                <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> </p>
-                  <p className="text-gray-500 line-clamp-4"></p>
-                </div>
-              </div>
-          </div>
-      </div>
+           
        
 
 
