@@ -23,10 +23,10 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        Hakkında bilgi alabilirsiniz. commands Trefax Bot'un.
         </p>
 
         <div>
@@ -37,7 +37,7 @@ export default function Commands() {
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
-                     View Commands List
+                     Komut Listesini Görüntüle
                     </>
                 
                 </div>
@@ -54,13 +54,13 @@ export default function Commands() {
               <Menu.Items className="z-1 custom-scroll absolute left-0 w-full mt-2 origin-top-right bg-black overflow-auto max-h-60 border border-black border-opacity-20 bg-opacity-95 rounded-lg p-1">
                 <div className="px-1 py-1 w-full">
 
-            {commands.map(astra => (
+            {commands.map(trefax => (
 
                 <Menu.Item>
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {astra}</>
+                         {trefax}</>
                     </button>
                     </Menu.Item>
             ))}
@@ -73,23 +73,23 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://bit.ly/3PHDjyC"}>
+  <Link href={"https://discord.com/api/oauth2/authorize?client_id=993587710356893816&permissions=8&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Davet Trefax</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/kJjVYb95aq"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Support Server</a>
+Destek Sunucumuz</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"https://top.gg/bot/993587710356893816/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Botumuza Oy Ver </a>
   </Link>
 </div>
 
