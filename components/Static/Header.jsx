@@ -75,8 +75,7 @@ const Header = ({ $, NavItems }) => {
             <header>
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
-                        <div className="flex items-center space-x-3">
-                            <img src="/img/logo2.png" 
+                        <div className="flex items-center space-x-3">  
                                 className={`
                                     rounded-full 
                                 `}
