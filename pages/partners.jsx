@@ -30,6 +30,7 @@ export default function Partners() {
                         </div>
                     </a>
                     </div>
+   </div>
      
 
   
