@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/TTvxX45a9v">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/975316534870278204/1004442533218238464/unknown.png" />
+                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1011272768744075265/1012337475869491310/unknown.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">☆ SynX Community</h1>        
                                 <div className="flex items-center mt-1">
@@ -31,14 +31,14 @@ export default function Partners() {
                     </a>
                     </div>
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.gg/ndrGJSceGR">
+            <a href="">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/999753843141267486/1004445349307482142/unknown.png" />
+                            <img className="rounded-full h-32 w-32" src="" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">SynX Botlist</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white"></h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        SynX Botlist Botunuzun Daha Hızlı Gelişebilmesine Yardımcı Olmak Adına Kurulmuş Bir Bot List Sunucusudur.
+                                       
                                     </p>
                                 </div>     
                             </div>
